@@ -1,0 +1,45 @@
+body {
+    background: radial-gradient(circle at 18.7% 37.8%, rgb(180, 175, 175) 0%, rgb(222, 226, 228) 90%);
+}
+
+img {
+    border-radius: 15%;
+}
+
+font {
+    font-weight: bold;
+    color: #AA6C39;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#logo {
+    margin: 15px;
+    border-radius: 50%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header_text {
+    margin-left: 1px;
+    font-weight: bold;
+}
+
+hr {
+    color: black;
+}
+
+#header_font_formatting {
+    color: #AA6C39;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#casette {
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
